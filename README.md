@@ -1,1 +1,1 @@
-# Fullperm misc for Secondlife
+# Fullperm misc for Secondlife & OpenSim
